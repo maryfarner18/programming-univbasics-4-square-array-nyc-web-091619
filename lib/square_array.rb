@@ -5,6 +5,6 @@ def square_array(array)
     count++
   end
   
-  array
+  p array
   
 end
